@@ -1,1 +1,1 @@
-# tech-survival-guide-devops
+# Guia de Sobrevivência Tech: DevOps
